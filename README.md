@@ -1,12 +1,14 @@
 Hello! Welcome to my profile!
 
 My basic skills:
-  •	Python
-  •	Go
-  •	C++
+
+	 •	Python
+ 	 •	Go
+ 	 •	C++
 
 Things I'm currently interested in:
-  •	Data science
+
+	•	Data science
 
 
 <!---
